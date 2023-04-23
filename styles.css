@@ -50,6 +50,7 @@
 .navbar a:hover {
   background-color: #ddd;
   color: #32ec94;
+  cursor: pointer;
 }
 
 .menu {
