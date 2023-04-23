@@ -13,6 +13,20 @@
 .navbar {
   background-color: #333;
   overflow: hidden;
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 20px;
+ 
+}
+
+.nav-list{
+  list-style-type: none;
+}
+
+.nav-list .list-tem{
+ display: inline-block; 
+  padding: 20px 10px;
 }
 
 /* Styles for the navigation links */
@@ -21,7 +35,7 @@
   display: block;
   color: #f2f2f2;
   text-align: center;
-  padding: 14px 16px;
+  padding: 20px 10px;
   text-decoration: none;
   font-size: 17px;
 }
@@ -35,7 +49,54 @@
 /* Styles for the hover effect on navigation links */
 .navbar a:hover {
   background-color: #ddd;
-  color: black;
+  color: #32ec94;
+}
+
+.menu {
+display:none;
+}
+
+.menu-line {
+  width: 20px;
+  height: 3px;
+  background-color: white;
+  margin-bottom: 4px;
+}
+
+.active {
+display: block;
+}
+
+@media all and (max-width: 480px){
+    .navbar{
+      flex-direction: column;
+    }
+  
+  .menu {
+    display: block;
+    position: absolute;
+    right: 15px
+    top: 15px;
+  }
+  
+  .nav-list {
+    list-style-type: none;
+    width: 100%;
+    text-align: center;
+    padding top: 10px;
+    display: none;
+    }
+    
+    .nav-list. list-tem {
+      display: block;
+      border-top: 1px solid #671ed0;
+    }
+    
+    .primary-icon {
+      margin-top:10px
+      margin-left: 10px;
+    }
+  }
 }
 
 /* Styles for the content area */
