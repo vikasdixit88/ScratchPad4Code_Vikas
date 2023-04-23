@@ -8,7 +8,8 @@ margin: 0;
 
 /* Styles for the navigation bar */
 .navbar {
-  background-color: darkblue;
+  background-color: white;
+  color: #671ed0;
   display:flex;
   justify-content: space-around;
   align-items: center;
@@ -26,7 +27,6 @@ margin: 0;
 }
 
 .navbar a {
-  color: white;
   text-decoration: none;
 }
 
