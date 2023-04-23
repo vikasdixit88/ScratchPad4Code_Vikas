@@ -20,7 +20,7 @@ margin: 0;
   list-style-type: none;
 }
 
-.nav-list .list-tem{
+.nav-list .list-item{
  display: inline-block; 
  padding: 20px 10px;
 }
