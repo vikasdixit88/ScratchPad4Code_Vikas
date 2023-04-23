@@ -93,53 +93,9 @@ display: block;
     }
     
     .primary-icon {
-      margin-top:10px
+      margin-top:10px;
       margin-left: 10px;
     }
-  }
+  
 }
 
-/* Styles for the content area */
-.content {
-  padding: 20px;
-  font-family: 'Roboto', sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
-}
-
-/* Styles for the sidebar */
-.sidebar {
-  height: 100%;
-  width: 160px;
-  position: fixed;
-  z-index: 1;
-  top: 0;
-  left: 0;
-  background-color: #333;
-  overflow-x: hidden;
-  padding-top: 20px;
-  font-family: 'PT Sans', sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
-}
-
-/* Styles for the sidebar links */
-.sidebar a {
-  padding: 6px 8px 6px 16px;
-  text-decoration: none;
-  font-size: 20px;
-  color: #818181;
-  display: block;
-}
-
-/* Styles for the active sidebar link */
-.sidebar a.active {
-  background-color: #4CAF50;
-  color: white;
-}
-
-/* Styles for the hover effect on sidebar links */
-.sidebar a:hover:not(.active) {
-  background-color: #ddd;
-  color: black;
-}
