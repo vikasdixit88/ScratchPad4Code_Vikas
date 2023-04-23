@@ -62,7 +62,7 @@ display:none;
     display: block;
     position: absolute;
     right:5px
-    top: 5px;
+    top: 60px;
   }
   
   .nav-list {
@@ -81,6 +81,7 @@ display:none;
     .primary-icon {
       margin-top:10px;
       margin-left: 10px;
+      margin-right: auto;
     }
   
 }
