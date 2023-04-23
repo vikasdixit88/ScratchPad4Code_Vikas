@@ -62,7 +62,8 @@ display:none;
     display: block;
     position: absolute;
     right:5px
-    top: 60px;
+    top: 80px;
+    z-index:1;
   }
   
   .nav-list {
