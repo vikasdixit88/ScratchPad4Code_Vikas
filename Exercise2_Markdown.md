@@ -12,3 +12,8 @@ _Italics_
 
 `code block`
 
+- level 1
+  - level 2
+
+* level 1
+  * level 2
