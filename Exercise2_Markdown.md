@@ -5,7 +5,7 @@
 
 [Google Search Engine](https://www.google.com)
 
-![Navratri prasad photo to make everyone feel hungry](Navratri prasad.jpg)
+![Navratri prasad photo to make everyone feel hungry](Navratri prasad.jpeg)
 
 **Bold**
 _Italics_
