@@ -4,3 +4,8 @@
 
 
 [Google Search Engine](https://www.google.com)
+
+![Navratri prasad photo to make everyone feel hungry](Navratri prasad.jpg)
+
+**Bold**
+_Italics_
