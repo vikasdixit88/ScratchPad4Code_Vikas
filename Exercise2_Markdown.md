@@ -23,5 +23,5 @@ _Italics_
    1. sub item1
    2. sub item 2
 
-   
+> GitHub offers free and paid products for storing and collaborating on code. Some products apply only to personal accounts, while other plans apply only to organization and enterprise accounts. For more information about accounts, see "Types of GitHub accounts."   
   
